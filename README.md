@@ -1,7 +1,7 @@
 # Reinforcement-learning
   ONLY   -- LLM  + CHATGPT + ->>  USING Reinforcement-learning
 PPO , GPRO
-https://arxiv.org/abs/2009.01325  ==   Learning to summarize from human feedback
+https://arxiv.org/abs/2009.01325  ==   Learning to summarize from human feedback \n
 https://arxiv.org/abs/2001.08361  ==   Scaling Laws for Neural Language Models
 https://arxiv.org/abs/2102.03896  ==   Consequences of Misaligned AI
 https://arxiv.org/abs/2212.09251  ==   Discovering Language Model Behaviors with Model-Written Evaluations
